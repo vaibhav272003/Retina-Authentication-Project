@@ -1,1 +1,2 @@
 # Retina-Authentication-Project
+Retina Authentication System is a biometric security project that identifies and verifies users based on the unique pattern of blood vessels present in the retina of the human eye. Since retinal patterns are highly unique for every individual and remain stable over time, retina authentication provides a highly secure method of access control compared to traditional password-based systems.
